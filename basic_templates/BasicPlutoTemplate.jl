@@ -4,13 +4,16 @@
 #> custom_attrs = ["hide-enabled"]
 #> 
 #> [frontmatter]
+#> author_name = "Stefan Bringuier"
 #> author = "Stefan Bringuier"
+#> author_url = "https://stefanbringuier.info"
+#> image = "https://stefanbringuier.github.io/PlutoNotebookTemplats/assets/basic_template.png"
 #> title = "Notebook Template"
 #> date = "2023-08-31"
 #> license = "CC-BY-4.0"
 #> description = "Provides functionality for references and equations."
 #> email = "stefanbringuier@gmail.com"
-#> tags = ["Templates"]
+#> tags = ["Templates", "Basic"]
 
 using Markdown
 using InteractiveUtils
