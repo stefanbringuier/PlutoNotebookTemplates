@@ -7,12 +7,12 @@
         {
             "title": "Basic Templates",
             "description": "Generic templates.",
-            "tags": ["basic"]
+            "tags": ["basic_templates"]
         },
         {
             "title": "Specific Templates",
             "description": "Templates for specific use.",
-            "tags": ["specific"]
+            "tags": ["specific_templates"]
         }
     ]
     
