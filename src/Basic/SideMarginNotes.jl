@@ -4,16 +4,16 @@
 #> custom_attrs = ["hide-enabled"]
 #> 
 #> [frontmatter]
-#> author_name = "Stefan Bringuier"
+#> email = "stefanbringuier@gmail.com"
 #> author = "Stefan Bringuier"
 #> author_url = "https://stefanbringuier.info"
-#> image = "data:image/png;base64,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"
-#> title = "Notebook Template"
+#> image = "data:image/png;base64,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"
+#> title = "Side Margin Notes"
 #> tags = ["Templates", "Basic"]
+#> author_name = "Stefan Bringuier"
+#> description = "Adds functionality for side margin callouts and footnotes"
 #> license = "CC-BY-4.0"
 #> date = "2023-08-31"
-#> email = "stefanbringuier@gmail.com"
-#> description = "Provides functionality for references and equations."
 
 using Markdown
 using InteractiveUtils
@@ -34,12 +34,18 @@ begin
 	using PlutoUI, PlutoExtras
 	using ShortCodes
 	using MarkdownLiteral: @mdx
+	using HypertextLiteral
 end;
 
 # ╔═╡ 6b8c8be1-c437-4862-a83f-3edbcf82a25d
 md"""
-# Notebook Template
+# Template With Side Margin Notes
 **Author**: [Stefan Bringuier](https://stefanbringuier.info)
+"""
+
+# ╔═╡ db2a812e-79fb-4250-91ae-164fbaaef133
+@mdx """
+This template is similar to the [basic template](https://stefanbringuier.github.io/PlutoNotebookTemplates/Basic/BasicPlutoTemplate.html) but adds the functionality for the function `aside` which lets you place content in the margins of the notebook. 
 """
 
 # ╔═╡ f195464d-39e5-4af8-833b-9e559e643e7c
@@ -47,13 +53,23 @@ md"""
 Below is how you cross-reference $\LaTeX$ equations using the [PlutoExtras.jl](https://disberd.github.io/PlutoExtras.jl/stable/) package. Don't know why this is in the PlutoUI.jl packge.
 
 A useful periodic function is given in $(eqref("periodic")).
-
-!!! note
-    To use the cross-reference functionality of `PlutoExtras.jl`, you have to put $\LaTeX$ in its own cell using the `texeq` macro. You don't need to include \$ but do need to add a `\label`.
 """
 
 # ╔═╡ ae91ff53-4686-4ddc-9f8c-36864b91c0a7
 texeq"f(x)= A\cdot \sin(x) \label{periodic}"
+
+# ╔═╡ ffa9e3bb-fe3f-4da9-95b9-b8d5a8e2b9de
+md"""
+## Margin footnotes
+
+In some cases you will want to use footnotes[^1]
+"""
+
+# ╔═╡ 2c65d25f-85e6-4f0b-8ae4-0c6aa23c65ab
+md"""
+## Plots in the Margin
+You can pass anything to aside, even plots. You'll probably want to change the size of the plot so it nicely fits.
+"""
 
 # ╔═╡ 147069e0-551e-489c-8b36-a96548e269a0
 md"""
@@ -107,9 +123,6 @@ Another reference  [$(cite("julia"))](#references). You have to modify the `refe
 ```
 [\$(cite("my_ref"))](#references)
 ```
-
-!!! note
-    You need to use the `@mdx` macro from the `MarkdownLiterals.jl` package and you can only link to the `references` section header, not individual references
 """
 
 # ╔═╡ 73cf6452-dd53-4bba-b870-88768cba897d
@@ -146,7 +159,7 @@ end)
 
 # ╔═╡ 63255254-dc62-4d83-acaf-1302b1134716
 md"""
-### Configuration setup
+### Configuration setup 
 """
 
 # ╔═╡ b197168f-ebfa-4e26-a07c-c08d621717e8
@@ -164,9 +177,71 @@ md"""
 plotly(size=(675,400),
 	foreground_color_legend = nothing);
 
+# ╔═╡ f4747e48-8abb-4b55-b389-3b733880da6a
+md"""
+## Support functions
+"""
+
+# ╔═╡ c778c7b5-fe76-40ae-86c8-eedb491bb5f8
+"""
+Place content on side of Pluto notebook.
+"""
+function aside(x; side="left", vshift=-40)
+    # Generate a unique identifier for each aside element
+    uid = rand(UInt32)
+    unique_class = "plutoui-aside-wrapper-$uid"
+    
+    # Define CSS styles based on side and vshift parameters
+    width = Dict("left" => "-550px", "right" => "-11px")
+    sidefrmt = "$(side): $(width[side])"
+
+    @htl("""
+    <style>
+    @media (min-width: calc(700px + 30px + 300px)) {
+        aside.$(unique_class) {
+            position: absolute;
+            $(sidefrmt);
+            width: 0px;
+            transform: translate(0, $(vshift)%);
+        }
+        aside.$(unique_class) > div {
+            width: 500px;
+            height: 450px;
+        }
+    }
+    </style>
+
+    <aside class="$(unique_class)">
+        <div>
+        $(x)
+        </div>
+    </aside>
+    """)
+end;
+
+
+# ╔═╡ 667cf902-02a8-448a-a747-b70a60bab894
+aside(md"""
+!!! note
+    You need to use the `@mdx` macro from the `MarkdownLiterals.jl` package and you can only link to the `references` section header, not individual references
+""")
+
+# ╔═╡ 9e486b9a-6ec6-4662-8e17-ac3c4945bddc
+aside(md"""!!! note
+    To use the cross-reference functionality of `PlutoExtras.jl`, you have to put $\LaTeX$ in its own cell using the `texeq` macro. You don't need to include \$ but do need to add a `\label`.
+"""
+)
+
+# ╔═╡ 3a1a71b7-308d-4cd8-9e75-5720f6d36807
+aside(md"[^1]: You can place the footnotes on the side like this using the `aside` function and passing the footnote definition to it. You may need to shift the location using the `vshift` kwarg which is a percentage of vertical displacement. You can place them on the right side using the kwarg `side=\"right\"` ";side="right",vshift=-20)
+
+# ╔═╡ 31082360-7055-4c43-bb8b-9f240b01fcd7
+aside(plot(sin,size=(300,250));side="right",vshift=-20)
+
 # ╔═╡ 00000000-0000-0000-0000-000000000001
 PLUTO_PROJECT_TOML_CONTENTS = """
 [deps]
+HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
 MarkdownLiteral = "736d6165-7244-6769-4267-6b50796e6954"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 PlutoExtras = "ed5d0301-4775-4676-b788-cf71e66ff8ed"
@@ -174,6 +249,7 @@ PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
 ShortCodes = "f62ebe17-55c5-4640-972f-b59c0dd11ccf"
 
 [compat]
+HypertextLiteral = "~0.9.4"
 MarkdownLiteral = "~0.1.1"
 Plots = "~1.38.17"
 PlutoExtras = "~0.7.8"
@@ -187,7 +263,7 @@ PLUTO_MANIFEST_TOML_CONTENTS = """
 
 julia_version = "1.9.2"
 manifest_format = "2.0"
-project_hash = "f5eda61e50fffc87d65d98c9bae275d466a0616a"
+project_hash = "e82668e7d374a8c2c51e6156d0a7b8840ca955c6"
 
 [[deps.AbstractPlutoDingetjes]]
 deps = ["Pkg"]
@@ -1261,10 +1337,17 @@ version = "1.4.1+0"
 
 # ╔═╡ Cell order:
 # ╟─6b8c8be1-c437-4862-a83f-3edbcf82a25d
+# ╟─db2a812e-79fb-4250-91ae-164fbaaef133
 # ╟─b285e84c-6321-4d22-b4d4-28f830861ed3
+# ╟─667cf902-02a8-448a-a747-b70a60bab894
 # ╠═73cf6452-dd53-4bba-b870-88768cba897d
-# ╟─f195464d-39e5-4af8-833b-9e559e643e7c
+# ╠═f195464d-39e5-4af8-833b-9e559e643e7c
+# ╟─9e486b9a-6ec6-4662-8e17-ac3c4945bddc
 # ╠═ae91ff53-4686-4ddc-9f8c-36864b91c0a7
+# ╟─ffa9e3bb-fe3f-4da9-95b9-b8d5a8e2b9de
+# ╠═3a1a71b7-308d-4cd8-9e75-5720f6d36807
+# ╟─2c65d25f-85e6-4f0b-8ae4-0c6aa23c65ab
+# ╠═31082360-7055-4c43-bb8b-9f240b01fcd7
 # ╟─147069e0-551e-489c-8b36-a96548e269a0
 # ╟─c68f5c8c-6e7a-4372-b6b7-2c4753020146
 # ╟─fc6e2fb7-4714-4d79-8d88-ad60a0c1ba19
@@ -1277,5 +1360,7 @@ version = "1.4.1+0"
 # ╠═2a1bace0-2530-4f40-b498-e63c3d6b91ae
 # ╟─a5ff7542-e2a1-4ffe-9861-c285afd2de7f
 # ╠═48e99049-4774-465c-add1-bebd34dab60c
+# ╟─f4747e48-8abb-4b55-b389-3b733880da6a
+# ╠═c778c7b5-fe76-40ae-86c8-eedb491bb5f8
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
