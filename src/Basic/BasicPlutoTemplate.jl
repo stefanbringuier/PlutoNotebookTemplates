@@ -4,16 +4,16 @@
 #> custom_attrs = ["hide-enabled"]
 #> 
 #> [frontmatter]
-#> description = "Provides functionality for references and equations."
+#> license = "CC-BY-4.0"
 #> author = "Stefan Bringuier"
 #> author_url = "https://stefanbringuier.info"
 #> image = "https://github.com/stefanbringuier/PlutoNotebookTemplates/blob/f5bb2895951d7454e2fa2df752fb3a085504e887/assets/basic_template.png"
 #> title = "Notebook Template"
 #> tags = ["Templates", "Basic"]
 #> date = "2023-08-31"
+#> description = "Provides functionality for references and equations."
 #> author_name = "Stefan Bringuier"
 #> email = "stefanbringuier@gmail.com"
-#> license = "CC-BY-4.0"
 
 using Markdown
 using InteractiveUtils
